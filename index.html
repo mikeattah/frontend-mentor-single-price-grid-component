@@ -1,16 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<html class="hydrated" lang="en-US" s>
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- displays site properly based on user's device -->
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="HandheldFriendly" content="true" />
+    <meta name="MobileOptimized" content="width" />
+
     <link
       rel="icon"
       type="image/png"
       sizes="32x32"
       href="./images/favicon-32x32.png"
     />
+
     <title>Frontend Mentor | Single Price Grid Component</title>
+
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -21,18 +25,18 @@
   </head>
   <body>
     <main class="container">
-      <div class="top">
-        <h2 class="title">Join our Community</h2>
+      <section class="top">
+        <h1 class="title">Join our Community</h1>
         <p class="para-1">30-day, hassle-free money back guarantee</p>
         <p class="para-2">
           Gain access to our full library of tutorials along with expert code
           reviews. Perfect for any developers who are serious about honing their
           skills.
         </p>
-      </div>
-      <div class="middle">
+      </section>
+      <section class="middle">
         <div class="price-div">
-          <p class="para-3">Monthly Subscription</p>
+          <h2 class="para-3">Monthly Subscription</h2>
           <div class="price-tag">
             <span class="price">$29</span>
             <span class="per">per month</span>
@@ -40,12 +44,12 @@
           <p class="para-4">Full access for less than $1 a day</p>
         </div>
         <div class="signup-div">
-          <button class="signup-btn">Sign Up</button>
+          <button class="signup-btn" type="button">Sign Up</button>
         </div>
-      </div>
-      <div class="bottom">
+      </section>
+      <section class="bottom">
         <div class="top-div">
-          <p class="para-3">Why Us</p>
+          <h2 class="para-3">Why Us</h2>
         </div>
         <div class="bottom-div">
           <span class="list">Tutorials by industry experts</span>
@@ -56,15 +60,23 @@
           <span class="list">Flashcard decks</span>
           <span class="list">New videos every week</span>
         </div>
-      </div>
+      </section>
     </main>
     <footer>
       <p class="attribution">
         Challenge by
-        <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+        <a
+          href="https://www.frontendmentor.io?ref=challenge"
+          target="_blank"
+          rel="noopener noreferrer"
           >Frontend Mentor</a
         >. Coded by
-        <a href="https://twitter.com/miikeattah" target="_blank">mikeattah</a>.
+        <a
+          href="https://twitter.com/miikeattah"
+          target="_blank"
+          rel="noopener noreferrer"
+          >mikeattah</a
+        >.
       </p>
     </footer>
   </body>
