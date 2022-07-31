@@ -47,6 +47,6 @@ I will continue to learn about responsive web design as responsiveness continues
 
 ## Author
 
-- Website - [Mike Attah](https://mikeattah.com)
+- Website - [mikeattah.com](https://mikeattah.com)
 - Frontend Mentor - [@mikeattah](https://www.frontendmentor.io/profile/mikeattah)
-- Twitter - [@miikeattah](https://www.twitter.com/miikeattah)
+- Twitter - [@mikeattahh](https://www.twitter.com/miikeattah)
