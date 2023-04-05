@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/html-and-css-component-using-flexbox-bKDrw9uoh)
-- Live Site URL: [GitHub Pages](https://mikeattah.github.io/single-price-grid-component/)
+- View Submission: [Frontend Mentor](https://www.frontendmentor.io/solutions/html-and-css-component-using-flexbox-bKDrw9uoh)
+- View Site: [GitHub Pages](https://mikeattah.github.io/frontend-mentor-single-price-grid-component/)
 
 ## My process
 
@@ -47,6 +47,6 @@ I will continue to learn about responsive web design as responsiveness continues
 
 ## Author
 
-- Website - [mikeattah.com](https://mikeattah.com)
-- Frontend Mentor - [@mikeattah](https://www.frontendmentor.io/profile/mikeattah)
-- Twitter - [@mikeattahh](https://www.twitter.com/miikeattah)
+- Website: [mikeattah.com](https://mikeattah.com)
+- Frontend Mentor: [@mikeattah](https://www.frontendmentor.io/profile/mikeattah)
+- Twitter: [@mikeattahh](https://www.twitter.com/miikeattah)
